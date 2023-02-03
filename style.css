@@ -1,0 +1,37 @@
+.h{
+    margin: 0px;
+    font-size: 40px;
+    width: 100%;
+}
+.span{
+    font-size:15px;
+    color: black;
+
+}
+body{
+    background-size: cover;
+}
+.d{
+    width:200px;
+    border-radius: 100px;
+}
+.s{
+    float: left;
+}
+.v{
+    float: right;
+}
+.hh{
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+}
+canvas{
+    border: 6px solid black;
+    border-radius: 20px;
+}
+.play{
+ font-size: 25px;
+ width: 120px;
+ color: white;   
+}
